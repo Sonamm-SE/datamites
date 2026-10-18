@@ -1,4 +1,4 @@
--- step 1: create the database
+#step 1: create the database
 
 create database google_db;
 
